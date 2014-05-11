@@ -13,7 +13,8 @@ nav {
     }
   nav ul li {
     float: left;
-   min-width: 16.66%; 
+   min-width: 20%; 
+   max-width: 100%;
     }
   nav ul li a {
     font-family: "Lustria";
